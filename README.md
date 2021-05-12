@@ -12,13 +12,22 @@ programação e uso do sistema operacional Linux pelo terminal é fundamental.
 ## Para Ruby on Rails Developer Júnior
 - Experiência com Ruby on Rails ou outra linguagem de programação.
 - Inglês básico.
-- Docker (Dockerizar uma Aplicação Rails)
+- Docker Básico (Dockerizar uma Aplicação Rails)
 - Bancos de dados relacionais
+-- PostgresSQL
 
 ## Para Ruby on Rails Developer Pleno
 - Experiência com Ruby on Rails de no mínimo 1 ou 2 anos em projetos.
 - Inglês intermediário.
+- Docker (Dockerizar uma Aplicação Rails)
+- Kubernetes
+- Bancos de dados relacionais
+-- PostgresSQL
 
 ## Para Ruby on Rails Developer Sênior
 - Experiência com Ruby on Rails de no mínimo 2 ou 3 anos em projetos.
 - Inglês fluente.
+- Docker (Dockerizar uma Aplicação Rails)
+- Kubernetes
+- Bancos de dados relacionais
+-- PostgresSQL

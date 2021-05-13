@@ -24,6 +24,8 @@ Basicamente todas as vagas descritas vão requerer conceitos fundamentais:
 - Kubernetes
 - PostgresSQL
 - MySQL
+- Testes (TDD, BDD)
+- Heroku
 
 ## Para Ruby on Rails Developer Sênior
 - Experiência com Ruby on Rails de no mínimo 2 ou 3 anos em projetos.
@@ -36,4 +38,8 @@ Basicamente todas as vagas descritas vão requerer conceitos fundamentais:
   - PostgresSQL
   - MySQL
 - Desenvolvimento de APIs
+- Testes (TDD, BDD)
 - Testes automatizados
+- Continuous Integration/Deployment(CI/CD)
+- Heroku
+- AWS
